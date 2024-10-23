@@ -1,0 +1,39 @@
+.media{
+    text-align: center;
+    font-size: 60px;
+    color: purple;
+}
+body{
+    background-color: black;
+}
+.media1{
+    color: rgb(0, 0, 0);
+    border: 10px solid rgb(0, 105, 139);
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color: lemonchiffon;
+    flex-wrap: wrap;
+}
+.media2{
+    color: rgb(0, 0, 0);
+    border: 10px solid rgb(107, 218, 255);
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color: rgb(176, 248, 128);
+    flex-wrap: wrap;
+    margin-top: 80px;
+}
+.pic{
+    width: 100%;
+    height: 250px;
+    margin-top: 50px;
+}
+.media3{
+    color: rgb(0, 0, 0);
+    border: 10px solid rgb(255, 255, 255);
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color: rgb(230, 252, 110);
+    flex-wrap: wrap;
+    margin-top: 80px;
+}
